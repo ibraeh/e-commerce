@@ -60,7 +60,7 @@ This project provided valuable insights that could help LIDL optimize its market
 * **Seasonal Trends:** The project identified peak sales seasons in June and September. By implementing targeted promotions or advertising campaigns during these periods, LIDL could potentially increase sales by 10%. 
 * **Product Performance:** Top-selling product categories like Health and Music contributed significantly to the overall revenue. LIDL could prioritize stock management and optimize product placement for these categories, potentially leading to a 15% increase in sales.
 * **Regional Analysis:** The report revealed underperforming regions like South America and Antarctica. LIDL could focus marketing campaigns or consider store expansions in these areas, aiming for a 20% growth in regional sales within the next 5 years.
-* **Customer Lifetime Value:** High-value customers were identified based on their purchasing history. Implementing targeted loyalty programs or retention strategies for these customers could potentially increase customer lifetime value by 5% and boost overall customer retention.
+
 
 # Future Works
 The potential avenues for future works on the e-commerce project  included:
