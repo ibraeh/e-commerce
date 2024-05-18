@@ -69,10 +69,10 @@ The potential avenues for future works on the e-commerce project  included:
 
 
 **7. Showcase project**
-
+* Screenshots:
 * [Live report](https://app.powerbi.com/groups/me/reports/604e06a0-1446-4e94-ba64-9303d3b640af/ReportSection12bf2b1503c9873b8766?bookmarkGuid=edb6735b-99b0-4e9f-addf-90a9ea6845af&bookmarkUsage=1&ctid=43d2115b-a55e-46b6-9df7-b03388ecfc60&portalSessionId=1f4c3eac-5a82-49b9-9d3c-f58f627aeb7d&fromEntryPoint=export)
 
-* Screenshots:
+
 ![model](https://github.com/ibraeh/e-commerce/assets/29314702/53ae51c8-a9d4-49ec-ba04-1bdedf669dbf)
 
 ![welcome](https://github.com/ibraeh/e-commerce/assets/29314702/cf284a8b-fc80-4c05-858d-af9f5af16fee)
