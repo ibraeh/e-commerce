@@ -68,7 +68,20 @@ The potential avenues for future works on the e-commerce project  included:
 * Screenshots:
 ![model](https://github.com/ibraeh/e-commerce/assets/29314702/53ae51c8-a9d4-49ec-ba04-1bdedf669dbf)
 
-[E-Commerce_LIDL.pdf](https://github.com/ibraeh/e-commerce/files/15366074/E-Commerce_LIDL.pdf)
+![welcome](https://github.com/ibraeh/e-commerce/assets/29314702/cf284a8b-fc80-4c05-858d-af9f5af16fee)
 
+![overview](https://github.com/ibraeh/e-commerce/assets/29314702/fd59dcd4-a9a1-452b-b3ab-ba095666d274)
+
+![sales](https://github.com/ibraeh/e-commerce/assets/29314702/2d07efbc-e5c8-4b4b-9daf-b48a805efe22)
+
+![customers](https://github.com/ibraeh/e-commerce/assets/29314702/f0f29c23-e2fc-4720-8fd1-22df62b72389)
+
+![products](https://github.com/ibraeh/e-commerce/assets/29314702/bc5cc708-5941-4f16-9af3-61f2df1c23ff)
+
+![countries](https://github.com/ibraeh/e-commerce/assets/29314702/ce72a2b1-f309-4b87-8a5e-af55bed47bda)
+
+![orders](https://github.com/ibraeh/e-commerce/assets/29314702/58d8c2fa-4559-4369-b7cd-f04f5261235c)
+
+![trends](https://github.com/ibraeh/e-commerce/assets/29314702/98f342e6-fe69-45ad-920c-549be636e65e)
 
 
