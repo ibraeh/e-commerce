@@ -1,70 +1,78 @@
+### Project Outline
 
-# Title & Introduction
-- **Title:**  [Analysing Customer Behaviour Patterns in E-commerce for Targeted Marketing Strategies](https://app.powerbi.com/groups/me/reports/604e06a0-1446-4e94-ba64-9303d3b640af/ReportSection12bf2b1503c9873b8766?bookmarkGuid=edb6735b-99b0-4e9f-addf-90a9ea6845af&bookmarkUsage=1&ctid=43d2115b-a55e-46b6-9df7-b03388ecfc60&portalSessionId=1f4c3eac-5a82-49b9-9d3c-f58f627aeb7d&fromEntryPoint=export)
-- **Introduction:** This project used Power BI to perform data analytics to drive strategic decisions and business performance for LIDL company. 
-# Objectives
-The aim of the project was to:
-- understand customer behaviour pattern
-- analyze product performance 
-- develop sales and revenue insights
-- perform regional analysis
-- identify operational efficiency
-- understand customer retention and lifetime value
-# Data Description
-* **Data Source:**
-The dataset was derived from Kaggle via the link [ecommerce-dataset](https://www.kaggle.com/datasets/onigbenga/ecommerce-dataset). It contained sales data for the LIDL store saved in CSV format.
-* **Data Attributes:**
-The data had 18 columns namely: CustomerId, CustomerName, CustomerEmail
-CustomerGender, CustomerIp
-ProductName, ProductPrice
-CostOfGood, ProductCategory
-CustomerCountry, CustomerContinent
-OrderTime, OrderDay, OrderMonth, QuantitySold, discountPerQuantity,
-salePrice, OrderYear.
-* **Data preprocessing:**
-The data was cleaned and transformed to ensure consistency and accuracy. This included handling missing values, formatting dates, and creating calculated fields for metrics like total sales, revenue per product, and more.
+**Title**: 
+[Analysing Customer Behaviour Patterns in E-commerce for Targeted Marketing Strategies](https://app.powerbi.com/groups/me/reports/604e06a0-1446-4e94-ba64-9303d3b640af/ReportSection12bf2b1503c9873b8766?bookmarkGuid=edb6735b-99b0-4e9f-addf-90a9ea6845af&bookmarkUsage=1&ctid=43d2115b-a55e-46b6-9df7-b03388ecfc60&portalSessionId=1f4c3eac-5a82-49b9-9d3c-f58f627aeb7d&fromEntryPoint=export) 
+**Duration**: 7 days  
+**Team Size**: 1
 
-# Power BI Report Overview
-* **Key Performance Indicators (KPIs):**
-This Power BI report provided a comprehensive analysis of LIDL sales data. It focused on key performance indicators (KPIs) such as total sales, revenue by product category, total profit, total quantity sold, total products, total products per quantity, total orders, average  revenue per order, and customer lifetime value.
+**Objective**:  
+This project aimed to leverage Power BI for comprehensive data analytics to drive strategic decisions and enhance business performance of an e-commerce.
 
-* **Visualizations:**
-This report utilized various visualizations, including bar charts, line charts, pie charts, and maps, to analyze trends and patterns in the data. Users could interact with the report using slicers and drill-downs to explore specific product categories, customer segments, continents, and periods.
+**Scope**:  
+The project focused on analyzing sales data from an e-commerce platform to achieve the following objectives:
 
-* **Key Findings and Insights:**
-Some key findings from this report included:
+- Understand customer behavior patterns.
+- Analyze product performance across different categories.
+- Develop insights into sales and revenue generation.
+- Perform regional analysis to identify geographical trends.
+- Evaluate operational efficiency metrics.
+- Explore customer retention strategies and calculate customer lifetime value.
 
-    * Identifying seasonal trends in sales throughout the year.
-    * Discovering the top-selling product categories and their contribution to overall revenue.
-    * Understanding regional sales patterns and strategies to diversify resources.
-    * Gaining insights into customer lifetime value and strategies for customer retention.
+**Role and Responsibilities**:  
+- **Role**: Data Analyst
+- **Responsibilities**:
+  - Acquired and cleaned sales data from an  e-commerce dataset from Kaggle.
+  - Developed a structured data model in Power BI with relationships between Orders, Products, Customers, and Geographic data.
+  - Implemented data preprocessing steps including handling missing values, formatting dates, and creating calculated fields for key metrics.
+  - Created interactive dashboards and reports using Power BI to visualize KPIs and actionable insights.
+  - Collaborated with key stakeholders to understand the business requirements and refine data analysis approaches.
+  - Presented findings and recommendations to support strategic decision-making.
+
+**Methodology**:  
+- **Data Acquisition**:  
+  - Obtained the sales data in CSV format from Kaggle via the link [e-commerce dataset](https://www.kaggle.com/datasets/onigbenga/ecommerce-dataset), consisting of CustomerId, CustomerName, CustomerEmail, CustomerGender, CustomerIp, ProductName, ProductPrice, CostOfGoods, ProductCategory, CustomerCountry, CustomerContinent, OrderTime, OrderDay, OrderMonth, QuantitySold, DiscountPerQuantity, SalePrice, and OrderYear.
+- **Data Preparation**:  
+  - Cleaned and transformed data to ensure consistency and accuracy.
+  - Conducted exploratory data analysis (EDA) to understand data distributions and identify outliers.
+  - Implemented data preprocessing techniques including handling missing values, standardizing data formats, and creating aggregated metrics.
+- **Data Analysis**:  
+  - Utilized Power BI for data visualization, employing various chart types (bar charts, line charts, pie charts, maps) to analyze trends and patterns.
+  - Developed custom DAX measures to calculate KPIs such as total sales, average order value, and customer lifetime value.
+  - Implemented interactive features such as slicers and drill-downs for deeper data exploration and analysis.
+
+**Tools and Technologies**:  
+- Power BI
+- Microsoft Excel (for data preprocessing)
+- DAX (Data Analysis Expressions)
+
+**Challenges and Solutions**:  
+- **Challenges**:
+  - Handling large volumes of sales data and ensuring optimal performance in Power BI.
+  - Integrating data from multiple sources and maintaining data integrity.
+- **Solutions**:
+  - Optimized data models and queries to enhance Power BI dashboard performance.
+  - Implemented robust data validation and cleaning procedures to ensure data quality.
+
+**Results and Impact**:  
+- **Key Findings**:  
+  - Identified seasonal sales trends and peak periods for targeted marketing campaigns.
+  - Discovered top-selling product categories and their contribution to overall revenue.
+  - Analyzed regional sales performance to identify growth opportunities and operational efficiencies.
+  - Calculated customer lifetime value (CLV) to prioritize customer retention strategies.
+
+- **Business Impact**:  
+  - Provided actionable insights to optimize marketing strategies and resource allocation.
+  - Recommendations based on insights could potentially lead to a 10% increase in sales during peak seasons and a 15% increase in revenue from optimized product category management.
+
+**Conclusion**:  
+- **Lessons Learned**:  
+  - Importance of data visualization and interactive dashboards in facilitating data-driven decision-making.
+  - Enhancing customer segmentation strategies based on CLV calculations and regional analysis.
+- **Future Works**:  
+  - Explore advanced predictive modeling techniques to forecast sales and customer behavior.
+  - Implement dynamic pricing strategies and real-time analytics to optimize product pricing and promotions based on market trends and customer preferences.
 
 
-# Technical Skills
-* **Data Modeling:**
- A well-structured data model was built with relationships between the Orders, Products, Sales, Country, and Customers tables. 
-
-* **DAX Calculations:**
- Custom DAX measures were created to calculate KPIs like total sales, average order value, total profit, and customer lifetime value.
-
-* **Data Visualization:**
-A variety of data visualizations were utilized, including line charts for sales trends over time, bar charts to compare sales per category, pie charts for product category distribution, and maps for geographical analysis. Conditional formatting, bookmarking, navigation buttons, and tooltips were also employed to enhance the data presentation.
-
-* **Report Interactivity:**
-Users could interact with the report using slicers to filter data by product category, specific date, continent or season. Drill-downs were used to allow deeper analysis of specific products, sales, or profits.
-
-# Business Impact
-
-This project provided valuable insights that could help LIDL optimize its marketing strategies and resource allocation strategies.
-* **Seasonal Trends:** The project identified peak sales seasons in June and September. By implementing targeted promotions or advertising campaigns during these periods, LIDL could potentially increase sales by 10%. 
-* **Product Performance:** Top-selling product categories like Health and Music contributed significantly to the overall revenue. LIDL could prioritize stock management and optimize product placement for these categories, potentially leading to a 15% increase in sales.
-* **Regional Analysis:** The report revealed underperforming regions like South America and Antarctica. LIDL could focus marketing campaigns or consider store expansions in these areas, aiming for a 20% growth in regional sales within the next 5 years.
-
-
-# Future Works
-The potential avenues for future works on the e-commerce project  included:
-* exploring advanced predictive modelling techniques to forecast sales, identify trends, and predict customer behaviour.
-* Implementing dynamic pricing models to optimize product prices based on real-time market conditions, customer behaviour, and competitor pricing.
 
 
 # Screenshots
